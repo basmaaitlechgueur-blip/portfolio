@@ -248,7 +248,7 @@ Le thème est sauvegardé dans localStorage.
 
 # 🎓 Page Education #
 
-[Education](Screenshots/education.png)
+![Education](Screenshots/education.png)
 
 
 # 🏅 Page Certifications #
