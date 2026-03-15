@@ -239,7 +239,7 @@ Le thème est sauvegardé dans localStorage.
 ---
  # 🏠 Page Home # 
 
-
+![Home](Screenshots/home.png)
 
 
 # 💻 Page Projects #
